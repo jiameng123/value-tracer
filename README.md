@@ -2,7 +2,7 @@
 
 Value Tracer is a VS Code extension that helps you track, manage, and switch between different values in your code. It provides an intuitive way to manage value changes during development and debugging.
 
-![Demo GIF](https://github.com/username/value-tracer/raw/main/demo.gif)
+![Demo GIF](https://github.com/saga7878/value-tracer/blob/main/demo.gif)
 
 ## Features
 
